@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+/* 
+table{
+  margin: 5%;
+} */
+td{
+  /* border: 1px solid #282c34; */
+  padding: 5px;
+}
+/* }
+tr{
+  border: 1px solid red;
+} */
